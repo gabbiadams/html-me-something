@@ -1,0 +1,57 @@
+#wholeThing {
+    font-family: sans-serif;
+    color: white;
+    background-color: rgb(78, 132, 146)
+}
+#topOfPageTitle {
+    text-align: center;
+    padding-top: 60px;
+    font-size: 50px;
+}
+#underTopOfPage {
+    text-align: center;
+    font-size: 20px;
+    padding-top: 15px;
+    padding-bottom: 50px;
+}
+header {
+    background-color: rgb(54, 83, 95);
+    border-bottom: 3px solid white;
+}
+main {
+    margin-left: 175px;
+    margin-right: 175px;
+}
+article {
+    padding-bottom: 60px;
+}
+.sectionHeader {
+    padding-top: 40px;
+    padding-bottom: 25px;
+    font-size: 40px;
+    border-bottom: 3px solid white;
+}
+.sectionParagraph {
+    padding-top: 20px;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+.sectionList {
+  text-align: center;
+}
+.sectionItem {
+    padding-top: 35px;
+    padding-bottom: 15px;
+    font-size: 20px;
+}
+#meteorImage {
+    text-align: center;
+    padding-bottom: 20px;
+}
+footer {
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
